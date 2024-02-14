@@ -1,2 +1,4 @@
 # Environmental-Perception-DS-CW-
 The aim of this analysis is to identify key relations between a players' in-game behaviour to thier environmental opinions, and classifying individuals as either human-centric (Non Environmental Friendly) or Environmentalist (Environmental Friendly) based on their responses to this questionnaire.
+
+This notebook discusses the relationship between in-game player behaviours and their real-life environmental perceptions by using the dataset derived from 640 game players. Animal Crossing: New Horizons (ACNH) came out in March 2020. The dataset has been designed by collecting necessary data from the players across 29 countries using Google Forms, which includes six major categories: Socio-Demographic Profile, COVID-19 Concerns, Environmental Perceptions, Game Playing Habits, In-Game Behaviour and Game-Playing Feeling.
